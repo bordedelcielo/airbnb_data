@@ -1,1 +1,1 @@
-# Christopher's homework submission for the AirBnB python data project.
+# Christopher's NYC AirBnB python data project.
